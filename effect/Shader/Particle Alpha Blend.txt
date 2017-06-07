@@ -1,0 +1,34 @@
+Shader "Particles/Alpha Blended" {
+Properties {
+ _TintColor ("Tint Color", Color) = (0.5,0.5,0.5,0.5)
+ _MainTex ("Particle Texture", 2D) = "white" { }
+ _InvFade ("Soft Particles Factor", Range(0.01,3)) = 1
+}
+SubShader { 
+ Tags { "QUEUE"="Transparent" "IGNOREPROJECTOR"="true" "RenderType"="Transparent" }
+ Pass {
+  Tags { "QUEUE"="Transparent" "IGNOREPROJECTOR"="true" "RenderType"="Transparent" }
+  ZWrite Off
+  Cull Off
+  Blend SrcAlpha OneMinusSrcAlpha
+  ColorMask RGB
+  GpuProgramID 54810
+Program "vp" {
+SubProgram "gles " {
+GpuProgramIndex 0
+}
+SubProgram "gles " {
+GpuProgramIndex 1
+}
+}
+Program "fp" {
+SubProgram "gles " {
+GpuProgramIndex 2
+}
+SubProgram "gles " {
+GpuProgramIndex 3
+}
+}
+ }
+}
+}

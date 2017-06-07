@@ -1,0 +1,230 @@
+
+aruituosha.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 97, 275
+  size: 95, 110
+  orig: 95, 110
+  offset: 0, 0
+  index: -1
+daimao
+  rotate: false
+  xy: 250, 332
+  size: 76, 54
+  orig: 76, 54
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 162, 95
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+eye_1_1
+  rotate: false
+  xy: 86, 52
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+eye_1_2
+  rotate: false
+  xy: 207, 239
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+eye_2_1
+  rotate: true
+  xy: 188, 236
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+eye_2_2
+  rotate: false
+  xy: 118, 2
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+eye_3_1
+  rotate: false
+  xy: 89, 12
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+eye_3_2
+  rotate: false
+  xy: 132, 51
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+eye_4_1
+  rotate: true
+  xy: 314, 252
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+eye_4_2
+  rotate: false
+  xy: 338, 261
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+eye_6_1
+  rotate: true
+  xy: 328, 343
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+eye_6_2
+  rotate: false
+  xy: 118, 21
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 97, 372
+  size: 136, 138
+  orig: 136, 138
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: false
+  xy: 235, 388
+  size: 130, 122
+  orig: 130, 122
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: true
+  xy: 2, 150
+  size: 123, 92
+  orig: 123, 92
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: true
+  xy: 367, 460
+  size: 50, 142
+  orig: 50, 142
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 209, 272
+  size: 39, 98
+  orig: 39, 98
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 329, 285
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 250, 284
+  size: 46, 77
+  orig: 46, 77
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 2, 49
+  size: 99, 82
+  orig: 99, 82
+  offset: 0, 0
+  index: -1
+hudiejie
+  rotate: true
+  xy: 367, 408
+  size: 50, 90
+  orig: 50, 90
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 250, 257
+  size: 25, 62
+  orig: 25, 62
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 86, 86
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+lingzi
+  rotate: false
+  xy: 114, 127
+  size: 59, 22
+  orig: 59, 22
+  offset: 0, 0
+  index: -1
+mawei
+  rotate: false
+  xy: 2, 275
+  size: 93, 235
+  orig: 93, 235
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: false
+  xy: 96, 213
+  size: 90, 60
+  orig: 90, 60
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: false
+  xy: 96, 151
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+meimao_4
+  rotate: true
+  xy: 459, 391
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+qunbai
+  rotate: false
+  xy: 2, 3
+  size: 85, 44
+  orig: 85, 44
+  offset: 0, 0
+  index: -1
+tie
+  rotate: true
+  xy: 175, 127
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 114, 91
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1

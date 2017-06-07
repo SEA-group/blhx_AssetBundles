@@ -1,0 +1,62 @@
+
+chuanneidanchuan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuandi
+  rotate: false
+  xy: 2, 122
+  size: 249, 141
+  orig: 249, 141
+  offset: 0, 0
+  index: -1
+chuanti_1
+  rotate: false
+  xy: 2, 265
+  size: 252, 210
+  orig: 252, 210
+  offset: 0, 0
+  index: -1
+feiji
+  rotate: false
+  xy: 256, 381
+  size: 220, 94
+  orig: 220, 94
+  offset: 0, 0
+  index: -1
+jiaban
+  rotate: false
+  xy: 256, 292
+  size: 212, 87
+  orig: 212, 87
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: false
+  xy: 2, 62
+  size: 246, 58
+  orig: 246, 58
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: false
+  xy: 2, 2
+  size: 246, 58
+  orig: 246, 58
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: false
+  xy: 256, 232
+  size: 246, 58
+  orig: 246, 58
+  offset: 0, 0
+  index: -1
+weapon_L
+  rotate: false
+  xy: 253, 189
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1

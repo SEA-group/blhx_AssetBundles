@@ -1,0 +1,34 @@
+
+yuleiting.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin01
+  rotate: false
+  xy: 173, 110
+  size: 184, 50
+  orig: 184, 50
+  offset: 0, 0
+  index: -1
+coin02
+  rotate: false
+  xy: 173, 58
+  size: 184, 50
+  orig: 184, 50
+  offset: 0, 0
+  index: -1
+coin03
+  rotate: false
+  xy: 173, 6
+  size: 184, 50
+  orig: 184, 50
+  offset: 0, 0
+  index: -1
+yuleiting
+  rotate: false
+  xy: 2, 2
+  size: 169, 158
+  orig: 169, 158
+  offset: 0, 0
+  index: -1

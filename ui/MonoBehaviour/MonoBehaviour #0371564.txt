@@ -1,0 +1,23 @@
+PPtr<GameObject> m_GameObject
+	int m_FileID = 0
+	SInt64 m_PathID = -6320181226159570953
+UInt8 m_Enabled = 1
+PPtr<MonoScript> m_Script
+	int m_FileID = 0
+	SInt64 m_PathID = 8638465457156096382
+string m_Name = ""
+PPtr<$Transform> UpperArea
+	int m_FileID = 0
+	SInt64 m_PathID = 8014860855800425018
+PPtr<$Transform> LowerArea
+	int m_FileID = 0
+	SInt64 m_PathID = 4858338310035193321
+PPtr<$Transform> UpperEdge
+	int m_FileID = 0
+	SInt64 m_PathID = -6833395136852122985
+PPtr<$Transform> LowerEdge
+	int m_FileID = 0
+	SInt64 m_PathID = 5703059761310213711
+float rate = 0
+float maxAngle = 0
+float minAngle = 0

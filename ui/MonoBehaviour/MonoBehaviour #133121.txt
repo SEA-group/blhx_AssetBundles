@@ -1,0 +1,22 @@
+PPtr<GameObject> m_GameObject
+	int m_FileID = 0
+	SInt64 m_PathID = 5712555691046454200
+UInt8 m_Enabled = 1
+PPtr<MonoScript> m_Script
+	int m_FileID = 0
+	SInt64 m_PathID = 1302166754790162069
+string m_Name = ""
+PPtr<$GameObject> Pagination
+	int m_FileID = 0
+	SInt64 m_PathID = -6495111834835489483
+PPtr<$GameObject> NextButton
+	int m_FileID = 0
+	SInt64 m_PathID = 656961738865008196
+PPtr<$GameObject> PrevButton
+	int m_FileID = 0
+	SInt64 m_PathID = 7954659364926245756
+float transitionSpeed = 10
+UInt8 UseFastSwipe = 1
+int FastSwipeThreshold = 100
+int StartingScreen = 0
+float PageStep = 1

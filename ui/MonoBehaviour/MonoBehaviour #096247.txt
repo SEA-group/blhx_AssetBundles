@@ -1,0 +1,27 @@
+PPtr<GameObject> m_GameObject
+	int m_FileID = 0
+	SInt64 m_PathID = 3461072712021187289
+UInt8 m_Enabled = 1
+PPtr<MonoScript> m_Script
+	int m_FileID = 0
+	SInt64 m_PathID = -6529986807571841183
+string m_Name = ""
+float dist = 150
+UnityEvent onRefreshTop
+	PersistentCallGroup m_PersistentCalls
+		PersistentCall m_Calls
+			Array Array
+			int size = 0
+	string m_TypeName = "UnityEngine.Events.UnityEvent, UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+UnityEvent onRefreshBottom
+	PersistentCallGroup m_PersistentCalls
+		PersistentCall m_Calls
+			Array Array
+			int size = 0
+	string m_TypeName = "UnityEngine.Events.UnityEvent, UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+UnityEvent onDragEnd
+	PersistentCallGroup m_PersistentCalls
+		PersistentCall m_Calls
+			Array Array
+			int size = 0
+	string m_TypeName = "UnityEngine.Events.UnityEvent, UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"

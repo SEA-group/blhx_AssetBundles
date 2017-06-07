@@ -1,0 +1,215 @@
+Shader "Standard" {
+Properties {
+ _Color ("Color", Color) = (1,1,1,1)
+ _MainTex ("Albedo", 2D) = "white" { }
+ _Cutoff ("Alpha Cutoff", Range(0,1)) = 0.5
+ _Glossiness ("Smoothness", Range(0,1)) = 0.5
+[Gamma]  _Metallic ("Metallic", Range(0,1)) = 0
+ _MetallicGlossMap ("Metallic", 2D) = "white" { }
+ _BumpScale ("Scale", Float) = 1
+ _BumpMap ("Normal Map", 2D) = "bump" { }
+ _Parallax ("Height Scale", Range(0.005,0.08)) = 0.02
+ _ParallaxMap ("Height Map", 2D) = "black" { }
+ _OcclusionStrength ("Strength", Range(0,1)) = 1
+ _OcclusionMap ("Occlusion", 2D) = "white" { }
+ _EmissionColor ("Color", Color) = (0,0,0,1)
+ _EmissionMap ("Emission", 2D) = "white" { }
+ _DetailMask ("Detail Mask", 2D) = "white" { }
+ _DetailAlbedoMap ("Detail Albedo x2", 2D) = "grey" { }
+ _DetailNormalMapScale ("Scale", Float) = 1
+ _DetailNormalMap ("Normal Map", 2D) = "bump" { }
+[Enum(UV0,0,UV1,1)]  _UVSec ("UV Set for secondary textures", Float) = 0
+[HideInInspector]  _Mode ("__mode", Float) = 0
+[HideInInspector]  _SrcBlend ("__src", Float) = 1
+[HideInInspector]  _DstBlend ("__dst", Float) = 0
+[HideInInspector]  _ZWrite ("__zw", Float) = 1
+}
+SubShader { 
+ LOD 300
+ Tags { "RenderType"="Opaque" "PerformanceChecks"="False" }
+ Pass {
+  Name "FORWARD"
+  Tags { "LIGHTMODE"="ForwardBase" "SHADOWSUPPORT"="true" "RenderType"="Opaque" "PerformanceChecks"="False" }
+  ZWrite [_ZWrite]
+  Blend [_SrcBlend] [_DstBlend]
+  GpuProgramID 39223
+Program "vp" {
+}
+Program "fp" {
+}
+ }
+ Pass {
+  Name "FORWARD_DELTA"
+  Tags { "LIGHTMODE"="ForwardAdd" "SHADOWSUPPORT"="true" "RenderType"="Opaque" "PerformanceChecks"="False" }
+  ZWrite Off
+  Blend [_SrcBlend] One
+  GpuProgramID 129312
+Program "vp" {
+}
+Program "fp" {
+}
+ }
+ Pass {
+  Name "SHADOWCASTER"
+  Tags { "LIGHTMODE"="SHADOWCASTER" "SHADOWSUPPORT"="true" "RenderType"="Opaque" "PerformanceChecks"="False" }
+  GpuProgramID 147192
+Program "vp" {
+}
+Program "fp" {
+}
+ }
+}
+SubShader { 
+ LOD 150
+ Tags { "RenderType"="Opaque" "PerformanceChecks"="False" }
+ Pass {
+  Name "FORWARD"
+  Tags { "LIGHTMODE"="ForwardBase" "SHADOWSUPPORT"="true" "RenderType"="Opaque" "PerformanceChecks"="False" }
+  ZWrite [_ZWrite]
+  Blend [_SrcBlend] [_DstBlend]
+  GpuProgramID 358221
+Program "vp" {
+SubProgram "gles " {
+GpuProgramIndex 0
+}
+SubProgram "gles " {
+GpuProgramIndex 1
+}
+SubProgram "gles " {
+GpuProgramIndex 2
+}
+SubProgram "gles " {
+GpuProgramIndex 3
+}
+SubProgram "gles " {
+GpuProgramIndex 4
+}
+SubProgram "gles " {
+GpuProgramIndex 5
+}
+}
+Program "fp" {
+SubProgram "gles " {
+GpuProgramIndex 6
+}
+SubProgram "gles " {
+GpuProgramIndex 7
+}
+SubProgram "gles " {
+GpuProgramIndex 8
+}
+}
+ }
+ Pass {
+  Name "FORWARD_DELTA"
+  Tags { "LIGHTMODE"="ForwardAdd" "SHADOWSUPPORT"="true" "RenderType"="Opaque" "PerformanceChecks"="False" }
+  ZWrite Off
+  Blend [_SrcBlend] One
+  GpuProgramID 443686
+Program "vp" {
+SubProgram "gles " {
+GpuProgramIndex 9
+}
+SubProgram "gles " {
+GpuProgramIndex 10
+}
+SubProgram "gles " {
+GpuProgramIndex 11
+}
+SubProgram "gles " {
+GpuProgramIndex 12
+}
+SubProgram "gles " {
+GpuProgramIndex 13
+}
+SubProgram "gles " {
+GpuProgramIndex 14
+}
+SubProgram "gles " {
+GpuProgramIndex 15
+}
+SubProgram "gles " {
+GpuProgramIndex 16
+}
+SubProgram "gles " {
+GpuProgramIndex 17
+}
+SubProgram "gles " {
+GpuProgramIndex 18
+}
+SubProgram "gles " {
+GpuProgramIndex 19
+}
+SubProgram "gles " {
+GpuProgramIndex 20
+}
+SubProgram "gles " {
+GpuProgramIndex 21
+}
+}
+Program "fp" {
+SubProgram "gles " {
+GpuProgramIndex 22
+}
+SubProgram "gles " {
+GpuProgramIndex 23
+}
+SubProgram "gles " {
+GpuProgramIndex 24
+}
+SubProgram "gles " {
+GpuProgramIndex 25
+}
+SubProgram "gles " {
+GpuProgramIndex 26
+}
+SubProgram "gles " {
+GpuProgramIndex 27
+}
+SubProgram "gles " {
+GpuProgramIndex 28
+}
+SubProgram "gles " {
+GpuProgramIndex 29
+}
+SubProgram "gles " {
+GpuProgramIndex 30
+}
+SubProgram "gles " {
+GpuProgramIndex 31
+}
+SubProgram "gles " {
+GpuProgramIndex 32
+}
+SubProgram "gles " {
+GpuProgramIndex 33
+}
+SubProgram "gles " {
+GpuProgramIndex 34
+}
+}
+ }
+ Pass {
+  Name "SHADOWCASTER"
+  Tags { "LIGHTMODE"="SHADOWCASTER" "SHADOWSUPPORT"="true" "RenderType"="Opaque" "PerformanceChecks"="False" }
+  GpuProgramID 488501
+Program "vp" {
+SubProgram "gles " {
+GpuProgramIndex 35
+}
+SubProgram "gles " {
+GpuProgramIndex 36
+}
+}
+Program "fp" {
+SubProgram "gles " {
+GpuProgramIndex 37
+}
+SubProgram "gles " {
+GpuProgramIndex 38
+}
+}
+ }
+}
+Fallback "VertexLit"
+}

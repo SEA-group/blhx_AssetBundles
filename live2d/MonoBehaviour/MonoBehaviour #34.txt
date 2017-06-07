@@ -1,0 +1,107 @@
+PPtr<GameObject> m_GameObject
+	int m_FileID = 0
+	SInt64 m_PathID = -2630068162821050681
+UInt8 m_Enabled = 1
+PPtr<MonoScript> m_Script
+	int m_FileID = 0
+	SInt64 m_PathID = -543894934920715438
+string m_Name = ""
+PPtr<$TextAsset> moc
+	int m_FileID = 1
+	SInt64 m_PathID = 8681678539813452923
+vector mtns
+	Array Array
+	int size = 12
+		[0]
+		PPtr<$TextAsset> data
+			int m_FileID = 1
+			SInt64 m_PathID = 9047477606423630256
+		[1]
+		PPtr<$TextAsset> data
+			int m_FileID = 1
+			SInt64 m_PathID = 6665117718915827855
+		[2]
+		PPtr<$TextAsset> data
+			int m_FileID = 1
+			SInt64 m_PathID = -488236665053403790
+		[3]
+		PPtr<$TextAsset> data
+			int m_FileID = 1
+			SInt64 m_PathID = -684741306631908207
+		[4]
+		PPtr<$TextAsset> data
+			int m_FileID = 1
+			SInt64 m_PathID = 7484141418534194850
+		[5]
+		PPtr<$TextAsset> data
+			int m_FileID = 1
+			SInt64 m_PathID = 4339968738434172479
+		[6]
+		PPtr<$TextAsset> data
+			int m_FileID = 1
+			SInt64 m_PathID = -1813182033767639586
+		[7]
+		PPtr<$TextAsset> data
+			int m_FileID = 1
+			SInt64 m_PathID = 2799487703349457561
+		[8]
+		PPtr<$TextAsset> data
+			int m_FileID = 1
+			SInt64 m_PathID = -1784478732191506313
+		[9]
+		PPtr<$TextAsset> data
+			int m_FileID = 1
+			SInt64 m_PathID = -1599730589952844714
+		[10]
+		PPtr<$TextAsset> data
+			int m_FileID = 1
+			SInt64 m_PathID = 3643333170521745614
+		[11]
+		PPtr<$TextAsset> data
+			int m_FileID = 1
+			SInt64 m_PathID = 1972217410654588953
+PPtr<$TextAsset> physicsFile
+	int m_FileID = 1
+	SInt64 m_PathID = -6915832477840377228
+vector pics
+	Array Array
+	int size = 6
+		[0]
+		PPtr<$Texture2D> data
+			int m_FileID = 2
+			SInt64 m_PathID = -7342187685352026625
+		[1]
+		PPtr<$Texture2D> data
+			int m_FileID = 2
+			SInt64 m_PathID = 6604799103905161893
+		[2]
+		PPtr<$Texture2D> data
+			int m_FileID = 2
+			SInt64 m_PathID = 8901793867402591959
+		[3]
+		PPtr<$Texture2D> data
+			int m_FileID = 2
+			SInt64 m_PathID = 5134139738808397308
+		[4]
+		PPtr<$Texture2D> data
+			int m_FileID = 2
+			SInt64 m_PathID = 2129460746960468737
+		[5]
+		PPtr<$Texture2D> data
+			int m_FileID = 2
+			SInt64 m_PathID = -6093576489979332255
+vector picNames
+	Array Array
+	int size = 6
+		[0]
+		string data = "texture_00"
+		[1]
+		string data = "texture_01"
+		[2]
+		string data = "texture_02"
+		[3]
+		string data = "texture_03"
+		[4]
+		string data = "texture_04"
+		[5]
+		string data = "texture_05"

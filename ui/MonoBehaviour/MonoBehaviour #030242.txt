@@ -1,0 +1,42 @@
+PPtr<GameObject> m_GameObject
+	int m_FileID = 0
+	SInt64 m_PathID = 5975374243072585411
+UInt8 m_Enabled = 1
+PPtr<MonoScript> m_Script
+	int m_FileID = 0
+	SInt64 m_PathID = 4069666876522752846
+string m_Name = ""
+PPtr<$RectTransform> m_Content
+	int m_FileID = 0
+	SInt64 m_PathID = 9030138374802792239
+UInt8 m_Horizontal = 0
+UInt8 m_Vertical = 1
+int m_MovementType = 2
+float m_Elasticity = 0.1
+UInt8 m_Inertia = 1
+float m_DecelerationRate = 0.135
+float m_ScrollSensitivity = 1
+PPtr<$RectTransform> m_Viewport
+	int m_FileID = 0
+	SInt64 m_PathID = 7342638682983713421
+PPtr<$Scrollbar> m_HorizontalScrollbar
+	int m_FileID = 0
+	SInt64 m_PathID = 0
+PPtr<$Scrollbar> m_VerticalScrollbar
+	int m_FileID = 0
+	SInt64 m_PathID = 0
+int m_HorizontalScrollbarVisibility = 0
+int m_VerticalScrollbarVisibility = 0
+float m_HorizontalScrollbarSpacing = 0
+float m_VerticalScrollbarSpacing = 0
+ScrollRectEvent m_OnValueChanged
+	PersistentCallGroup m_PersistentCalls
+		PersistentCall m_Calls
+			Array Array
+			int size = 0
+	string m_TypeName = "UnityEngine.UI.LScrollRect+ScrollRectEvent, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+PPtr<$GameObject> prefabItem
+	int m_FileID = 0
+	SInt64 m_PathID = 1139672025516273083
+int mTotalCount = 0
+UInt8 isStart = 0

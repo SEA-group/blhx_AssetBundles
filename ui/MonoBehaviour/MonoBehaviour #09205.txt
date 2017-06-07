@@ -1,0 +1,28 @@
+PPtr<GameObject> m_GameObject
+	int m_FileID = 0
+	SInt64 m_PathID = 1733955639481225190
+UInt8 m_Enabled = 1
+PPtr<MonoScript> m_Script
+	int m_FileID = 0
+	SInt64 m_PathID = 9202454401006530641
+string m_Name = ""
+UInt8 silent = 0
+PPtr<$SkeletonDataAsset> skeletonDataAsset
+	int m_FileID = 3
+	SInt64 m_PathID = -7424200154841214633
+string initialSkinName = "default"
+vector separatorSlotNames
+	Array Array
+	int size = 0
+float zSpacing = 0
+UInt8 renderMeshes = 1
+UInt8 immutableTriangles = 0
+UInt8 pmaVertexColors = 1
+UInt8 calculateNormals = 0
+UInt8 calculateTangents = 0
+UInt8 frontFacing = 0
+UInt8 logErrors = 0
+UInt8 disableRenderingOnOverride = 1
+string _animationName = "jump"
+UInt8 loop = 1
+float timeScale = 1

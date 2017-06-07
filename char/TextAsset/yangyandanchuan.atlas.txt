@@ -1,0 +1,76 @@
+
+yangyandanchuan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 110
+  size: 246, 58
+  orig: 246, 58
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 250, 163
+  size: 246, 58
+  orig: 246, 58
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 2, 50
+  size: 246, 58
+  orig: 246, 58
+  offset: 0, 0
+  index: -1
+主炮1号
+  rotate: false
+  xy: 2, 2
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+主炮2号
+  rotate: false
+  xy: 42, 2
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+图层 20
+  rotate: false
+  xy: 2, 341
+  size: 246, 169
+  orig: 246, 169
+  offset: 0, 0
+  index: -1
+图层 21
+  rotate: false
+  xy: 250, 411
+  size: 230, 99
+  orig: 230, 99
+  offset: 0, 0
+  index: -1
+机枪组
+  rotate: false
+  xy: 310, 328
+  size: 156, 81
+  orig: 156, 81
+  offset: 0, 0
+  index: -1
+舰桥
+  rotate: false
+  xy: 2, 170
+  size: 246, 169
+  orig: 246, 169
+  offset: 0, 0
+  index: -1
+鱼雷组
+  rotate: true
+  xy: 250, 66
+  size: 95, 39
+  orig: 95, 39
+  offset: 0, 0
+  index: -1

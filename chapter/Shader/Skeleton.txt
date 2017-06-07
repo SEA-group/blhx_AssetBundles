@@ -1,0 +1,72 @@
+Shader "Spine/Skeleton" {
+Properties {
+ _Cutoff ("Shadow alpha cutoff", Range(0,1)) = 0.1
+ _MainTex ("Texture to blend", 2D) = "black" { }
+}
+SubShader { 
+ LOD 100
+ Tags { "QUEUE"="Transparent" "IGNOREPROJECTOR"="true" "RenderType"="Transparent" }
+ Pass {
+  Tags { "QUEUE"="Transparent" "IGNOREPROJECTOR"="true" "RenderType"="Transparent" }
+  ZWrite Off
+  Cull Off
+  Blend One OneMinusSrcAlpha
+  GpuProgramID 114174
+Program "vp" {
+SubProgram "gles " {
+GpuProgramIndex 0
+}
+}
+Program "fp" {
+SubProgram "gles " {
+GpuProgramIndex 1
+}
+}
+ }
+ Pass {
+  Name "CASTER"
+  Tags { "LIGHTMODE"="SHADOWCASTER" "QUEUE"="Transparent" "IGNOREPROJECTOR"="true" "SHADOWSUPPORT"="true" "RenderType"="Transparent" }
+  Cull Off
+  Blend One OneMinusSrcAlpha
+  Offset 1, 1
+  GpuProgramID 65195
+Program "vp" {
+SubProgram "gles " {
+GpuProgramIndex 2
+}
+SubProgram "gles " {
+GpuProgramIndex 3
+}
+}
+Program "fp" {
+SubProgram "gles " {
+GpuProgramIndex 4
+}
+SubProgram "gles " {
+GpuProgramIndex 5
+}
+}
+ }
+}
+SubShader { 
+ LOD 100
+ Tags { "QUEUE"="Transparent" "IGNOREPROJECTOR"="true" "RenderType"="Transparent" }
+ Pass {
+  Tags { "QUEUE"="Transparent" "IGNOREPROJECTOR"="true" "RenderType"="Transparent" }
+  ZWrite Off
+  Cull Off
+  Blend One OneMinusSrcAlpha
+  GpuProgramID 185405
+Program "vp" {
+SubProgram "gles " {
+GpuProgramIndex 6
+}
+}
+Program "fp" {
+SubProgram "gles " {
+GpuProgramIndex 1
+}
+}
+ }
+}
+}

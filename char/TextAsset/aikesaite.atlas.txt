@@ -1,0 +1,244 @@
+
+aikesaite.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye_6_1
+  rotate: true
+  xy: 460, 168
+  size: 48, 33
+  orig: 48, 33
+  offset: 0, 0
+  index: -1
+eye_6_2
+  rotate: true
+  xy: 480, 322
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+eye_L1
+  rotate: false
+  xy: 463, 473
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+eye_L2
+  rotate: false
+  xy: 274, 237
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+eye_L3
+  rotate: true
+  xy: 460, 140
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+eye_R1
+  rotate: false
+  xy: 480, 357
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+eye_R2
+  rotate: false
+  xy: 140, 331
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+eye_R3
+  rotate: false
+  xy: 453, 218
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 209
+  size: 136, 138
+  orig: 136, 138
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: false
+  xy: 2, 349
+  size: 165, 161
+  orig: 165, 161
+  offset: 0, 0
+  index: -1
+hair_B2
+  rotate: false
+  xy: 2, 69
+  size: 130, 138
+  orig: 130, 138
+  offset: 0, 0
+  index: -1
+hair_B3
+  rotate: true
+  xy: 140, 237
+  size: 90, 132
+  orig: 90, 132
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 169, 394
+  size: 158, 116
+  orig: 158, 116
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: false
+  xy: 411, 218
+  size: 40, 69
+  orig: 40, 69
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: true
+  xy: 169, 329
+  size: 63, 154
+  orig: 63, 154
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 226, 60
+  size: 37, 61
+  orig: 37, 61
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 118, 11
+  size: 37, 59
+  orig: 37, 59
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 239, 165
+  size: 70, 54
+  orig: 70, 54
+  offset: 0, 0
+  index: -1
+houbai
+  rotate: false
+  xy: 134, 50
+  size: 90, 58
+  orig: 90, 58
+  offset: 0, 0
+  index: -1
+jianzhuang_L
+  rotate: false
+  xy: 231, 99
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+jianzhuang_R
+  rotate: false
+  xy: 379, 140
+  size: 79, 76
+  orig: 79, 76
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 453, 319
+  size: 25, 60
+  orig: 25, 60
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 453, 258
+  size: 26, 59
+  orig: 26, 59
+  offset: 0, 0
+  index: -1
+mao
+  rotate: true
+  xy: 325, 289
+  size: 90, 126
+  orig: 90, 126
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: false
+  xy: 140, 173
+  size: 97, 62
+  orig: 97, 62
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: false
+  xy: 295, 157
+  size: 82, 62
+  orig: 82, 62
+  offset: 0, 0
+  index: -1
+meimao_4
+  rotate: false
+  xy: 134, 110
+  size: 95, 61
+  orig: 95, 61
+  offset: 0, 0
+  index: -1
+suolian_L
+  rotate: true
+  xy: 329, 381
+  size: 129, 132
+  orig: 129, 132
+  offset: 0, 0
+  index: -1
+suolian_R
+  rotate: false
+  xy: 179, 2
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+toujin_1
+  rotate: true
+  xy: 2, 13
+  size: 54, 114
+  orig: 54, 114
+  offset: 0, 0
+  index: -1
+toujin_2
+  rotate: true
+  xy: 319, 221
+  size: 66, 90
+  orig: 66, 90
+  offset: 0, 0
+  index: -1
+weapon_L
+  rotate: false
+  xy: 284, 123
+  size: 74, 32
+  orig: 74, 32
+  offset: 0, 0
+  index: -1
+weapon_R
+  rotate: true
+  xy: 274, 253
+  size: 74, 43
+  orig: 74, 43
+  offset: 0, 0
+  index: -1
+weapon_R2
+  rotate: true
+  xy: 463, 397
+  size: 74, 40
+  orig: 74, 40
+  offset: 0, 0
+  index: -1

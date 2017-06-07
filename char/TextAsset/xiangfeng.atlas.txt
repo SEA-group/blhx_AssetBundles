@@ -1,0 +1,244 @@
+
+xiangfeng.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 451, 369
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+daimao
+  rotate: false
+  xy: 201, 63
+  size: 55, 78
+  orig: 55, 78
+  offset: 0, 0
+  index: -1
+ear_L
+  rotate: false
+  xy: 424, 437
+  size: 86, 73
+  orig: 86, 73
+  offset: 0, 0
+  index: -1
+ear_R
+  rotate: false
+  xy: 127, 136
+  size: 70, 73
+  orig: 70, 73
+  offset: 0, 0
+  index: -1
+eye_6_1
+  rotate: false
+  xy: 68, 40
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+eye_6_2
+  rotate: true
+  xy: 68, 2
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+eye_L1
+  rotate: false
+  xy: 150, 4
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+eye_L2
+  rotate: false
+  xy: 371, 356
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+eye_L3
+  rotate: false
+  xy: 198, 8
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+eye_L5
+  rotate: false
+  xy: 232, 35
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+eye_R1
+  rotate: true
+  xy: 109, 2
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+eye_R2
+  rotate: false
+  xy: 256, 343
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+eye_R3
+  rotate: true
+  xy: 117, 46
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_R5
+  rotate: true
+  xy: 199, 38
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 213
+  size: 136, 138
+  orig: 136, 138
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: false
+  xy: 2, 353
+  size: 148, 157
+  orig: 148, 157
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 152, 405
+  size: 135, 105
+  orig: 135, 105
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: true
+  xy: 289, 437
+  size: 73, 133
+  orig: 73, 133
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 2, 58
+  size: 59, 153
+  orig: 59, 153
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 127, 74
+  size: 72, 60
+  orig: 72, 60
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 199, 143
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 2, 32
+  size: 24, 64
+  orig: 24, 64
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 2, 6
+  size: 24, 63
+  orig: 24, 63
+  offset: 0, 0
+  index: -1
+lingdai1
+  rotate: true
+  xy: 289, 352
+  size: 21, 58
+  orig: 21, 58
+  offset: 0, 0
+  index: -1
+lingdai2
+  rotate: false
+  xy: 244, 281
+  size: 26, 57
+  orig: 26, 57
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: false
+  xy: 140, 211
+  size: 94, 62
+  orig: 94, 62
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: false
+  xy: 289, 375
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+meimao_4
+  rotate: false
+  xy: 371, 373
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: true
+  xy: 63, 75
+  size: 136, 62
+  orig: 136, 62
+  offset: 0, 0
+  index: -1
+shanzi_L
+  rotate: true
+  xy: 256, 361
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+shanzi_R
+  rotate: false
+  xy: 157, 39
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+weapon_L
+  rotate: false
+  xy: 152, 340
+  size: 102, 63
+  orig: 102, 63
+  offset: 0, 0
+  index: -1
+weapon_R
+  rotate: false
+  xy: 140, 275
+  size: 102, 63
+  orig: 102, 63
+  offset: 0, 0
+  index: -1
+zhipian
+  rotate: true
+  xy: 349, 352
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,251 @@
+
+shengwang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bag_L
+  rotate: false
+  xy: 123, 129
+  size: 61, 85
+  orig: 61, 85
+  offset: 0, 0
+  index: -1
+bag_R
+  rotate: true
+  xy: 368, 326
+  size: 61, 85
+  orig: 61, 85
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 367, 262
+  size: 62, 75
+  orig: 62, 75
+  offset: 0, 0
+  index: -1
+eye_6_1
+  rotate: true
+  xy: 122, 2
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+eye_6_2
+  rotate: false
+  xy: 216, 239
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+eye_L1
+  rotate: false
+  xy: 454, 389
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+eye_L2
+  rotate: true
+  xy: 496, 387
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+eye_L3
+  rotate: false
+  xy: 248, 238
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+eye_L4
+  rotate: false
+  xy: 455, 326
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+eye_R1
+  rotate: false
+  xy: 455, 353
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+eye_R2
+  rotate: false
+  xy: 2, 2
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+eye_R3
+  rotate: false
+  xy: 156, 8
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+eye_R4
+  rotate: false
+  xy: 183, 46
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 232
+  size: 122, 138
+  orig: 122, 138
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: false
+  xy: 2, 96
+  size: 119, 134
+  orig: 119, 134
+  offset: 0, 0
+  index: -1
+hair_B2
+  rotate: false
+  xy: 2, 372
+  size: 146, 138
+  orig: 146, 138
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 150, 403
+  size: 151, 107
+  orig: 151, 107
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: true
+  xy: 303, 445
+  size: 65, 150
+  orig: 65, 150
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: true
+  xy: 303, 389
+  size: 54, 149
+  orig: 54, 149
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 317, 257
+  size: 48, 70
+  orig: 48, 70
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 123, 77
+  size: 50, 61
+  orig: 50, 61
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 444, 259
+  size: 65, 66
+  orig: 65, 66
+  offset: 0, 0
+  index: -1
+jianzhuang_1
+  rotate: false
+  xy: 184, 8
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 186, 70
+  size: 26, 58
+  orig: 26, 58
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 122, 46
+  size: 29, 59
+  orig: 29, 59
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: true
+  xy: 455, 425
+  size: 85, 54
+  orig: 85, 54
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: false
+  xy: 235, 267
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+meimao_4
+  rotate: false
+  xy: 279, 329
+  size: 87, 58
+  orig: 87, 58
+  offset: 0, 0
+  index: -1
+qunbai_L
+  rotate: false
+  xy: 186, 130
+  size: 46, 84
+  orig: 46, 84
+  offset: 0, 0
+  index: -1
+qunbai_R
+  rotate: true
+  xy: 126, 216
+  size: 52, 88
+  orig: 52, 88
+  offset: 0, 0
+  index: -1
+shenjie
+  rotate: true
+  xy: 214, 90
+  size: 38, 18
+  orig: 38, 18
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 150, 334
+  size: 127, 67
+  orig: 127, 67
+  offset: 0, 0
+  index: -1
+tie
+  rotate: true
+  xy: 126, 344
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+weapon_L
+  rotate: false
+  xy: 2, 20
+  size: 118, 74
+  orig: 118, 74
+  offset: 0, 0
+  index: -1
+weapon_R
+  rotate: false
+  xy: 126, 270
+  size: 107, 62
+  orig: 107, 62
+  offset: 0, 0
+  index: -1

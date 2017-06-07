@@ -1,0 +1,61 @@
+PPtr<GameObject> m_GameObject
+	int m_FileID = 0
+	SInt64 m_PathID = 8295298830905648960
+UInt8 m_Enabled = 1
+PPtr<MonoScript> m_Script
+	int m_FileID = 0
+	SInt64 m_PathID = 3878933346545370344
+string m_Name = ""
+AnimationCurve scaleCurve
+	vector m_Curve
+		Array Array
+		int size = 3
+			[0]
+			Keyframe data
+				float time = 0.0008611027
+				float value = 0.7002564
+				float inSlope = 0.6005214
+				float outSlope = 0.6005214
+			[1]
+			Keyframe data
+				float time = 0.5
+				float value = 1
+				float inSlope = 0.6005214
+				float outSlope = -0.5974312
+			[2]
+			Keyframe data
+				float time = 1
+				float value = 0.7012844
+				float inSlope = -0.5974312
+				float outSlope = -0.5974312
+	int m_PreInfinity = 1
+	int m_PostInfinity = 1
+	int m_RotationOrder = 0
+AnimationCurve positionCurve
+	vector m_Curve
+		Array Array
+		int size = 2
+			[0]
+			Keyframe data
+				float time = 0
+				float value = 0.002557544
+				float inSlope = 0
+				float outSlope = 0
+			[1]
+			Keyframe data
+				float time = 1
+				float value = 1.002558
+				float inSlope = 0
+				float outSlope = 0
+	int m_PreInfinity = 1
+	int m_PostInfinity = 1
+	int m_RotationOrder = 0
+float posCurveFactor = 1000
+float yPositionValue = 46
+vector scrollViewItems
+	Array Array
+	int size = 0
+float dFactor = 0.2
+float horizontalValue = 0.1
+float horizontalTargetValue = 0.5
+float duration = 0.2

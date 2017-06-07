@@ -1,0 +1,16 @@
+PPtr<GameObject> m_GameObject
+	int m_FileID = 0
+	SInt64 m_PathID = 7218953746715244578
+UInt8 m_Enabled = 0
+PPtr<MonoScript> m_Script
+	int m_FileID = 0
+	SInt64 m_PathID = 7999980972518988318
+string m_Name = ""
+ColorRGBA topColor
+	unsigned int rgba = 4294967295
+ColorRGBA bottomColor
+	unsigned int rgba = 4292006610
+Vector3f gradientDir
+	float x = 0
+	float y = -1
+	float z = 0

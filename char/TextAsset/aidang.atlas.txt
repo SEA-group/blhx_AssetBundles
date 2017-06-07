@@ -1,0 +1,293 @@
+
+aidang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 215, 200
+  size: 63, 70
+  orig: 63, 70
+  offset: 0, 0
+  index: -1
+dao
+  rotate: true
+  xy: 2, 168
+  size: 166, 83
+  orig: 166, 83
+  offset: 0, 0
+  index: -1
+daodai
+  rotate: false
+  xy: 324, 193
+  size: 29, 83
+  orig: 29, 83
+  offset: 0, 0
+  index: -1
+ear
+  rotate: true
+  xy: 274, 141
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+ear_2
+  rotate: false
+  xy: 280, 197
+  size: 42, 79
+  orig: 42, 79
+  offset: 0, 0
+  index: -1
+ear_3
+  rotate: true
+  xy: 400, 346
+  size: 44, 74
+  orig: 44, 74
+  offset: 0, 0
+  index: -1
+eye_1_1
+  rotate: true
+  xy: 2, 2
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+eye_1_2
+  rotate: false
+  xy: 172, 66
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+eye_2_1
+  rotate: true
+  xy: 235, 72
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+eye_2_2
+  rotate: true
+  xy: 255, 145
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+eye_3_1
+  rotate: true
+  xy: 274, 169
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_3_2
+  rotate: false
+  xy: 207, 71
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_6_1
+  rotate: false
+  xy: 207, 139
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+eye_6_2
+  rotate: false
+  xy: 354, 289
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 128, 373
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: false
+  xy: 264, 397
+  size: 134, 113
+  orig: 134, 113
+  offset: 0, 0
+  index: -1
+hair_B2
+  rotate: false
+  xy: 2, 336
+  size: 124, 174
+  orig: 124, 174
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: true
+  xy: 400, 392
+  size: 118, 98
+  orig: 118, 98
+  offset: 0, 0
+  index: -1
+hair_F2
+  rotate: false
+  xy: 2, 49
+  size: 58, 117
+  orig: 58, 117
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 62, 57
+  size: 42, 103
+  orig: 42, 103
+  offset: 0, 0
+  index: -1
+hair_R2
+  rotate: true
+  xy: 214, 173
+  size: 25, 58
+  orig: 25, 58
+  offset: 0, 0
+  index: -1
+hand_L1
+  rotate: false
+  xy: 480, 312
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: false
+  xy: 65, 19
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+hand_R1
+  rotate: false
+  xy: 355, 258
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: false
+  xy: 476, 350
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+jiandai
+  rotate: true
+  xy: 65, 5
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+jianzhuang_L
+  rotate: true
+  xy: 87, 162
+  size: 172, 52
+  orig: 172, 52
+  offset: 0, 0
+  index: -1
+jianzhuang_R
+  rotate: true
+  xy: 141, 206
+  size: 165, 72
+  orig: 165, 72
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: false
+  xy: 355, 226
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: true
+  xy: 207, 111
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: false
+  xy: 355, 194
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 38, 4
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 272, 340
+  size: 95, 55
+  orig: 95, 55
+  offset: 0, 0
+  index: -1
+meimao_2
+  rotate: true
+  xy: 215, 272
+  size: 99, 55
+  orig: 99, 55
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: false
+  xy: 272, 278
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+weapon_L1
+  rotate: false
+  xy: 400, 314
+  size: 78, 30
+  orig: 78, 30
+  offset: 0, 0
+  index: -1
+weapon_L2
+  rotate: true
+  xy: 106, 73
+  size: 87, 31
+  orig: 87, 31
+  offset: 0, 0
+  index: -1
+weapon_L3
+  rotate: true
+  xy: 172, 97
+  size: 75, 33
+  orig: 75, 33
+  offset: 0, 0
+  index: -1
+weapon_R1
+  rotate: true
+  xy: 369, 320
+  size: 75, 29
+  orig: 75, 29
+  offset: 0, 0
+  index: -1
+weapon_R2
+  rotate: false
+  xy: 141, 174
+  size: 71, 30
+  orig: 71, 30
+  offset: 0, 0
+  index: -1
+xidai
+  rotate: false
+  xy: 139, 78
+  size: 31, 82
+  orig: 31, 82
+  offset: 0, 0
+  index: -1

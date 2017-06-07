@@ -1,0 +1,21 @@
+PPtr<GameObject> m_GameObject
+	int m_FileID = 0
+	SInt64 m_PathID = 8723265743296545630
+UInt8 m_Enabled = 1
+PPtr<MonoScript> m_Script
+	int m_FileID = 0
+	SInt64 m_PathID = 7230466668812857263
+string m_Name = ""
+ToggleEvent onValueChangedInverse
+	PersistentCallGroup m_PersistentCalls
+		PersistentCall m_Calls
+			Array Array
+			int size = 0
+	string m_TypeName = "UnityEngine.UI.Toggle+ToggleEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+ToggleIndexEvent onToggleSelectedOfIndex
+	PersistentCallGroup m_PersistentCalls
+		PersistentCall m_Calls
+			Array Array
+			int size = 0
+	string m_TypeName = "UIToggleEvent+ToggleIndexEvent, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+int toggleSelectedOfIndexOffset = 0

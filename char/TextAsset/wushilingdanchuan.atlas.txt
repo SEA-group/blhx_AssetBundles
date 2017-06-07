@@ -1,0 +1,69 @@
+
+wushilingdanchuan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 368
+  size: 252, 142
+  orig: 252, 142
+  offset: 0, 0
+  index: -1
+chuandi
+  rotate: false
+  xy: 2, 232
+  size: 249, 134
+  orig: 249, 134
+  offset: 0, 0
+  index: -1
+jiaban
+  rotate: false
+  xy: 2, 83
+  size: 210, 87
+  orig: 210, 87
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: false
+  xy: 256, 452
+  size: 246, 58
+  orig: 246, 58
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: false
+  xy: 2, 172
+  size: 246, 58
+  orig: 246, 58
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: false
+  xy: 256, 392
+  size: 246, 58
+  orig: 246, 58
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 2, 40
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: false
+  xy: 2, 2
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+weapon_3
+  rotate: false
+  xy: 52, 44
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1

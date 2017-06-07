@@ -1,0 +1,77 @@
+Shader "ShurikenMagic/TransparentRim" {
+Properties {
+ _RimColor ("Rim Color", Color) = (0.5,0.5,0.5,0.5)
+ _InnerColor ("Inner Color", Color) = (0.5,0.5,0.5,0.5)
+ _InnerColorPower ("Inner Color Power", Range(0,1)) = 0.5
+ _RimPower ("Rim Power", Range(0,5)) = 2.5
+ _AlphaPower ("Alpha Rim Power", Range(0,8)) = 4
+ _AllPower ("All Power", Range(0,10)) = 1
+}
+SubShader { 
+ Tags { "QUEUE"="Transparent" }
+ Pass {
+  Name "FORWARD"
+  Tags { "LIGHTMODE"="ForwardBase" "QUEUE"="Transparent" }
+  ZWrite Off
+  Blend SrcAlpha OneMinusSrcAlpha
+  ColorMask RGB
+  GpuProgramID 54463
+Program "vp" {
+SubProgram "gles " {
+GpuProgramIndex 0
+}
+SubProgram "gles " {
+GpuProgramIndex 1
+}
+}
+Program "fp" {
+SubProgram "gles " {
+GpuProgramIndex 2
+}
+}
+ }
+ Pass {
+  Name "FORWARD"
+  Tags { "LIGHTMODE"="ForwardAdd" "QUEUE"="Transparent" }
+  ZWrite Off
+  Blend SrcAlpha One
+  ColorMask RGB
+  GpuProgramID 83999
+Program "vp" {
+SubProgram "gles " {
+GpuProgramIndex 3
+}
+SubProgram "gles " {
+GpuProgramIndex 4
+}
+SubProgram "gles " {
+GpuProgramIndex 5
+}
+SubProgram "gles " {
+GpuProgramIndex 6
+}
+SubProgram "gles " {
+GpuProgramIndex 7
+}
+}
+Program "fp" {
+SubProgram "gles " {
+GpuProgramIndex 8
+}
+SubProgram "gles " {
+GpuProgramIndex 9
+}
+SubProgram "gles " {
+GpuProgramIndex 10
+}
+SubProgram "gles " {
+GpuProgramIndex 11
+}
+SubProgram "gles " {
+GpuProgramIndex 12
+}
+}
+ }
+}
+Fallback "VertexLit"
+}

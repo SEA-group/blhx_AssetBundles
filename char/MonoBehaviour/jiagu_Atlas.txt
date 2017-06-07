@@ -1,0 +1,18 @@
+PPtr<GameObject> m_GameObject
+	int m_FileID = 0
+	SInt64 m_PathID = 0
+UInt8 m_Enabled = 1
+PPtr<MonoScript> m_Script
+	int m_FileID = 0
+	SInt64 m_PathID = 1008803689438726606
+string m_Name = "jiagu_Atlas"
+PPtr<$TextAsset> atlasFile
+	int m_FileID = 0
+	SInt64 m_PathID = -6181857200961239425
+vector materials
+	Array Array
+	int size = 1
+		[0]
+		PPtr<$Material> data
+			int m_FileID = 0
+			SInt64 m_PathID = 8368427433696779898

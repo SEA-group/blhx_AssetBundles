@@ -1,0 +1,127 @@
+Shader "Custom/hollow" {
+Properties {
+ _MainTex ("Base (RGB)", 2D) = "white" { }
+}
+SubShader { 
+ LOD 200
+ Tags { "RenderType"="Transparent" }
+ Pass {
+  Name "FORWARD"
+  Tags { "LIGHTMODE"="ForwardBase" "SHADOWSUPPORT"="true" "RenderType"="Transparent" }
+  Blend Zero OneMinusSrcAlpha
+  GpuProgramID 12137
+Program "vp" {
+SubProgram "gles " {
+GpuProgramIndex 0
+}
+SubProgram "gles " {
+GpuProgramIndex 1
+}
+SubProgram "gles " {
+GpuProgramIndex 2
+}
+SubProgram "gles " {
+GpuProgramIndex 3
+}
+SubProgram "gles " {
+GpuProgramIndex 4
+}
+SubProgram "gles " {
+GpuProgramIndex 5
+}
+}
+Program "fp" {
+SubProgram "gles " {
+GpuProgramIndex 6
+}
+SubProgram "gles " {
+GpuProgramIndex 7
+}
+SubProgram "gles " {
+GpuProgramIndex 8
+}
+}
+ }
+ Pass {
+  Name "FORWARD"
+  Tags { "LIGHTMODE"="ForwardAdd" "RenderType"="Transparent" }
+  ZWrite Off
+  Blend One One
+  GpuProgramID 120793
+Program "vp" {
+SubProgram "gles " {
+GpuProgramIndex 9
+}
+SubProgram "gles " {
+GpuProgramIndex 10
+}
+SubProgram "gles " {
+GpuProgramIndex 11
+}
+SubProgram "gles " {
+GpuProgramIndex 12
+}
+SubProgram "gles " {
+GpuProgramIndex 13
+}
+}
+Program "fp" {
+SubProgram "gles " {
+GpuProgramIndex 14
+}
+SubProgram "gles " {
+GpuProgramIndex 15
+}
+SubProgram "gles " {
+GpuProgramIndex 16
+}
+SubProgram "gles " {
+GpuProgramIndex 17
+}
+SubProgram "gles " {
+GpuProgramIndex 18
+}
+}
+ }
+ Pass {
+  Name "PREPASS"
+  Tags { "LIGHTMODE"="PrePassBase" "RenderType"="Transparent" }
+  Blend Zero OneMinusSrcAlpha
+  GpuProgramID 189138
+Program "vp" {
+SubProgram "gles " {
+GpuProgramIndex 19
+}
+}
+Program "fp" {
+SubProgram "gles " {
+GpuProgramIndex 20
+}
+}
+ }
+ Pass {
+  Name "PREPASS"
+  Tags { "LIGHTMODE"="PrePassFinal" "RenderType"="Transparent" }
+  ZWrite Off
+  Blend Zero OneMinusSrcAlpha
+  GpuProgramID 240895
+Program "vp" {
+SubProgram "gles " {
+GpuProgramIndex 21
+}
+SubProgram "gles " {
+GpuProgramIndex 22
+}
+}
+Program "fp" {
+SubProgram "gles " {
+GpuProgramIndex 23
+}
+SubProgram "gles " {
+GpuProgramIndex 24
+}
+}
+ }
+}
+Fallback "Diffuse"
+}

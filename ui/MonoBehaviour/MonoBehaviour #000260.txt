@@ -1,0 +1,97 @@
+PPtr<GameObject> m_GameObject
+	int m_FileID = 0
+	SInt64 m_PathID = -3717159429418321956
+UInt8 m_Enabled = 1
+PPtr<MonoScript> m_Script
+	int m_FileID = 0
+	SInt64 m_PathID = -5439352690695611655
+string m_Name = ""
+Navigation m_Navigation
+	int m_Mode = 3
+	PPtr<$Selectable> m_SelectOnUp
+		int m_FileID = 0
+		SInt64 m_PathID = 0
+	PPtr<$Selectable> m_SelectOnDown
+		int m_FileID = 0
+		SInt64 m_PathID = 0
+	PPtr<$Selectable> m_SelectOnLeft
+		int m_FileID = 0
+		SInt64 m_PathID = 0
+	PPtr<$Selectable> m_SelectOnRight
+		int m_FileID = 0
+		SInt64 m_PathID = 0
+int m_Transition = 1
+ColorBlock m_Colors
+	ColorRGBA m_NormalColor
+		float r = 1
+		float g = 1
+		float b = 1
+		float a = 1
+	ColorRGBA m_HighlightedColor
+		float r = 0.9607843
+		float g = 0.9607843
+		float b = 0.9607843
+		float a = 1
+	ColorRGBA m_PressedColor
+		float r = 0.7843137
+		float g = 0.7843137
+		float b = 0.7843137
+		float a = 1
+	ColorRGBA m_DisabledColor
+		float r = 1
+		float g = 1
+		float b = 1
+		float a = 1
+	float m_ColorMultiplier = 1
+	float m_FadeDuration = 0.1
+SpriteState m_SpriteState
+	PPtr<$Sprite> m_HighlightedSprite
+		int m_FileID = 0
+		SInt64 m_PathID = 0
+	PPtr<$Sprite> m_PressedSprite
+		int m_FileID = 0
+		SInt64 m_PathID = 0
+	PPtr<$Sprite> m_DisabledSprite
+		int m_FileID = 0
+		SInt64 m_PathID = 0
+AnimationTriggers m_AnimationTriggers
+	string m_NormalTrigger = "Normal"
+	string m_HighlightedTrigger = "Highlighted"
+	string m_PressedTrigger = "Pressed"
+	string m_DisabledTrigger = "Disabled"
+UInt8 m_Interactable = 1
+PPtr<$Graphic> m_TargetGraphic
+	int m_FileID = 0
+	SInt64 m_PathID = 4833379357986774968
+ButtonClickedEvent m_OnClick
+	PersistentCallGroup m_PersistentCalls
+		PersistentCall m_Calls
+			Array Array
+			int size = 0
+	string m_TypeName = "UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+SpriteState overrideSpriteState
+	PPtr<$Sprite> m_HighlightedSprite
+		int m_FileID = 0
+		SInt64 m_PathID = 0
+	PPtr<$Sprite> m_PressedSprite
+		int m_FileID = 0
+		SInt64 m_PathID = 0
+	PPtr<$Sprite> m_DisabledSprite
+		int m_FileID = 2
+		SInt64 m_PathID = 3715909888391822337
+UInt8 mGrayOnDisabled = 0
+PPtr<$Image> externalImage
+	int m_FileID = 0
+	SInt64 m_PathID = 5701825905125380671
+SpriteState externalSpriteState
+	PPtr<$Sprite> m_HighlightedSprite
+		int m_FileID = 0
+		SInt64 m_PathID = 0
+	PPtr<$Sprite> m_PressedSprite
+		int m_FileID = 0
+		SInt64 m_PathID = 0
+	PPtr<$Sprite> m_DisabledSprite
+		int m_FileID = 1
+		SInt64 m_PathID = -6958634454112158717
+UInt8 externalNativeSize = 1
+UInt8 mExternalGrayOnDisabled = 0

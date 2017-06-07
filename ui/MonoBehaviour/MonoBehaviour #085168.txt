@@ -1,0 +1,14 @@
+PPtr<GameObject> m_GameObject
+	int m_FileID = 0
+	SInt64 m_PathID = 3422227948405285136
+UInt8 m_Enabled = 1
+PPtr<MonoScript> m_Script
+	int m_FileID = 0
+	SInt64 m_PathID = 8400968979927932650
+string m_Name = ""
+Entry m_Delegates
+	Array Array
+	int size = 0
+Entry delegates
+	Array Array
+	int size = 0

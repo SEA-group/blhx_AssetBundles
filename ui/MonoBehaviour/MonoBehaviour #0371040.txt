@@ -1,0 +1,39 @@
+PPtr<GameObject> m_GameObject
+	int m_FileID = 0
+	SInt64 m_PathID = -9030555926485798790
+UInt8 m_Enabled = 1
+PPtr<MonoScript> m_Script
+	int m_FileID = 0
+	SInt64 m_PathID = -2436197816900000207
+string m_Name = ""
+unsigned int count = 1
+PPtr<$Transform> square
+	int m_FileID = 0
+	SInt64 m_PathID = 5501689300091344743
+PPtr<$Transform> blur_1
+	int m_FileID = 0
+	SInt64 m_PathID = -195676523130813384
+PPtr<$Transform> blur_2
+	int m_FileID = 0
+	SInt64 m_PathID = -3996316400548347615
+PPtr<$Transform> blur_3
+	int m_FileID = 0
+	SInt64 m_PathID = -9110487181758077836
+PPtr<$Transform> blur_4
+	int m_FileID = 0
+	SInt64 m_PathID = 65945309549926658
+int blurRotateDelta = 5
+int squareMaxRotate = -180
+PPtr<$Transform> upperQuarter
+	int m_FileID = 0
+	SInt64 m_PathID = -4987833956315225201
+PPtr<$Transform> lowerQuarter
+	int m_FileID = 0
+	SInt64 m_PathID = -7741820423563591437
+PPtr<$Transform> leftQuarter
+	int m_FileID = 0
+	SInt64 m_PathID = -6484264478278320042
+PPtr<$Transform> rightQuarter
+	int m_FileID = 0
+	SInt64 m_PathID = 7888923804534310835
+int quarterDistance = 121

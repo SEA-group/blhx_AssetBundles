@@ -1,0 +1,41 @@
+
+Ztingdanchuan.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 100
+  size: 226, 147
+  orig: 226, 147
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: false
+  xy: 230, 189
+  size: 246, 58
+  orig: 246, 58
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: false
+  xy: 230, 129
+  size: 246, 58
+  orig: 246, 58
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: false
+  xy: 2, 40
+  size: 246, 58
+  orig: 246, 58
+  offset: 0, 0
+  index: -1
+weapon_L1
+  rotate: false
+  xy: 2, 2
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,15 @@
+PPtr<GameObject> m_GameObject
+	int m_FileID = 0
+	SInt64 m_PathID = -8904075874949244364
+UInt8 m_Enabled = 1
+PPtr<MonoScript> m_Script
+	int m_FileID = 0
+	SInt64 m_PathID = -2212958843798234998
+string m_Name = ""
+UInt8 m_IgnoreLayout = 0
+float m_MinWidth = -1
+float m_MinHeight = -1
+float m_PreferredWidth = 44
+float m_PreferredHeight = 44
+float m_FlexibleWidth = -1
+float m_FlexibleHeight = -1

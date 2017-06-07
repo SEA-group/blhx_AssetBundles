@@ -1,0 +1,9 @@
+PPtr<GameObject> m_GameObject
+	int m_FileID = 0
+	SInt64 m_PathID = 5126445834811854479
+UInt8 m_Enabled = 1
+PPtr<MonoScript> m_Script
+	int m_FileID = 0
+	SInt64 m_PathID = 5828286718584517091
+string m_Name = ""
+UInt8 m_AllowSwitchOff = 0

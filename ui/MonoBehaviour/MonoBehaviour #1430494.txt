@@ -1,0 +1,14 @@
+PPtr<GameObject> m_GameObject
+	int m_FileID = 0
+	SInt64 m_PathID = 6352665067394622295
+UInt8 m_Enabled = 1
+PPtr<MonoScript> m_Script
+	int m_FileID = 0
+	SInt64 m_PathID = 1652453784387027190
+string m_Name = ""
+PPtr<$Animator> animator
+	int m_FileID = 0
+	SInt64 m_PathID = -8710025886272793142
+PPtr<$Button> button
+	int m_FileID = 0
+	SInt64 m_PathID = -4003345821540971926

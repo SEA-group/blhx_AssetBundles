@@ -1,0 +1,34 @@
+
+skeleton.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud1_t
+  rotate: false
+  xy: 2, 60
+  size: 106, 66
+  orig: 106, 66
+  offset: 0, 0
+  index: -1
+cloud2_t
+  rotate: false
+  xy: 110, 73
+  size: 76, 53
+  orig: 76, 53
+  offset: 0, 0
+  index: -1
+cloud3_t
+  rotate: false
+  xy: 110, 20
+  size: 68, 51
+  orig: 68, 51
+  offset: 0, 0
+  index: -1
+cloud4_t
+  rotate: false
+  xy: 2, 2
+  size: 106, 56
+  orig: 106, 56
+  offset: 0, 0
+  index: -1

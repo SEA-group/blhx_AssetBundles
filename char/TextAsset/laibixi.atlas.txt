@@ -1,0 +1,335 @@
+
+laibixi.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bishi_L
+  rotate: false
+  xy: 460, 472
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+bishi_R
+  rotate: false
+  xy: 369, 192
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 422, 398
+  size: 59, 69
+  orig: 59, 69
+  offset: 0, 0
+  index: -1
+body2
+  rotate: true
+  xy: 149, 208
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+ear
+  rotate: true
+  xy: 260, 178
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+eye_1_1
+  rotate: false
+  xy: 94, 162
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+eye_1_2
+  rotate: false
+  xy: 186, 176
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+eye_2_1
+  rotate: true
+  xy: 487, 266
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+eye_2_2
+  rotate: true
+  xy: 487, 238
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+eye_3_1
+  rotate: true
+  xy: 407, 162
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_3_2
+  rotate: true
+  xy: 146, 180
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_6_1
+  rotate: true
+  xy: 413, 190
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+eye_6_2
+  rotate: false
+  xy: 168, 117
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 373
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+gou
+  rotate: false
+  xy: 94, 125
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: true
+  xy: 2, 100
+  size: 130, 90
+  orig: 130, 90
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 2, 4
+  size: 83, 94
+  orig: 83, 94
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: false
+  xy: 221, 290
+  size: 70, 97
+  orig: 70, 97
+  offset: 0, 0
+  index: -1
+hair_L2
+  rotate: true
+  xy: 322, 469
+  size: 41, 136
+  orig: 41, 136
+  offset: 0, 0
+  index: -1
+hair_L3
+  rotate: false
+  xy: 98, 258
+  size: 49, 113
+  orig: 49, 113
+  offset: 0, 0
+  index: -1
+hair_R2
+  rotate: false
+  xy: 293, 293
+  size: 47, 94
+  orig: 47, 94
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 177, 149
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: true
+  xy: 220, 178
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 138, 153
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: true
+  xy: 134, 125
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+hanshui
+  rotate: false
+  xy: 138, 471
+  size: 182, 39
+  orig: 182, 39
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 316, 398
+  size: 104, 69
+  orig: 104, 69
+  offset: 0, 0
+  index: -1
+jianzhaung_B
+  rotate: false
+  xy: 138, 391
+  size: 114, 78
+  orig: 114, 78
+  offset: 0, 0
+  index: -1
+jianzhuang_L
+  rotate: false
+  xy: 221, 206
+  size: 70, 82
+  orig: 70, 82
+  offset: 0, 0
+  index: -1
+jianzhuang_R
+  rotate: false
+  xy: 369, 224
+  size: 36, 77
+  orig: 36, 77
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: false
+  xy: 293, 176
+  size: 68, 33
+  orig: 68, 33
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 98, 230
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: false
+  xy: 200, 117
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 363, 164
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: true
+  xy: 94, 101
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: true
+  xy: 342, 303
+  size: 93, 69
+  orig: 93, 69
+  offset: 0, 0
+  index: -1
+meimao_2
+  rotate: true
+  xy: 87, 6
+  size: 92, 69
+  orig: 92, 69
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: true
+  xy: 254, 389
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+tuanzi
+  rotate: false
+  xy: 149, 279
+  size: 70, 110
+  orig: 70, 110
+  offset: 0, 0
+  index: -1
+weapon_L1
+  rotate: true
+  xy: 407, 231
+  size: 70, 38
+  orig: 70, 38
+  offset: 0, 0
+  index: -1
+weapon_L2
+  rotate: true
+  xy: 463, 305
+  size: 77, 42
+  orig: 77, 42
+  offset: 0, 0
+  index: -1
+weapon_R1
+  rotate: true
+  xy: 447, 235
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+y_body
+  rotate: false
+  xy: 293, 211
+  size: 74, 80
+  orig: 74, 80
+  offset: 0, 0
+  index: -1
+y_head
+  rotate: true
+  xy: 2, 232
+  size: 139, 94
+  orig: 139, 94
+  offset: 0, 0
+  index: -1
+y_qi
+  rotate: false
+  xy: 94, 198
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+y_weiba
+  rotate: true
+  xy: 413, 312
+  size: 84, 48
+  orig: 84, 48
+  offset: 0, 0
+  index: -1
+zhijia
+  rotate: true
+  xy: 483, 384
+  size: 86, 27
+  orig: 86, 27
+  offset: 0, 0
+  index: -1

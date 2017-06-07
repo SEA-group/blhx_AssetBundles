@@ -1,0 +1,97 @@
+
+lenggui.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 385
+  size: 415, 471
+  orig: 415, 471
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 521, 680
+  size: 78, 28
+  orig: 78, 28
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 93, 250
+  size: 95, 31
+  orig: 95, 31
+  offset: 0, 0
+  index: -1
+foot
+  rotate: false
+  xy: 606, 778
+  size: 61, 78
+  orig: 61, 78
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 2, 131
+  size: 89, 252
+  orig: 89, 252
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 2, 57
+  size: 85, 72
+  orig: 85, 72
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 195, 328
+  size: 61, 55
+  orig: 61, 55
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: false
+  xy: 93, 283
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+star1
+  rotate: false
+  xy: 606, 725
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+star2
+  rotate: false
+  xy: 2, 2
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+star3
+  rotate: false
+  xy: 419, 545
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+zhu
+  rotate: false
+  xy: 419, 710
+  size: 185, 146
+  orig: 185, 146
+  offset: 0, 0
+  index: -1
+zuanshi
+  rotate: false
+  xy: 419, 608
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

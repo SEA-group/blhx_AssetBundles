@@ -1,0 +1,17 @@
+PPtr<GameObject> m_GameObject
+	int m_FileID = 0
+	SInt64 m_PathID = 8247813194371263738
+UInt8 m_Enabled = 1
+PPtr<MonoScript> m_Script
+	int m_FileID = 0
+	SInt64 m_PathID = 2317320853444195609
+string m_Name = ""
+float cellInterval = 0.26
+float cellOffset = 0.5
+UInt8 loop = 1
+PPtr<$GameObject> cellBase
+	int m_FileID = 0
+	SInt64 m_PathID = 6352665067394622295
+PPtr<$ScrollPositionController> scrollPositionController
+	int m_FileID = 0
+	SInt64 m_PathID = -3965615761395567146

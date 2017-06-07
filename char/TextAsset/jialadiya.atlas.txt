@@ -1,0 +1,230 @@
+
+jialadiya.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 394, 384
+  size: 94, 110
+  orig: 94, 110
+  offset: 0, 0
+  index: -1
+ear
+  rotate: true
+  xy: 251, 256
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+eye_1_1
+  rotate: true
+  xy: 187, 138
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+eye_1_2
+  rotate: true
+  xy: 139, 55
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+eye_2_1
+  rotate: true
+  xy: 110, 88
+  size: 38, 17
+  orig: 38, 17
+  offset: 0, 0
+  index: -1
+eye_2_2
+  rotate: false
+  xy: 110, 29
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+eye_3_1
+  rotate: false
+  xy: 110, 48
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+eye_3_2
+  rotate: true
+  xy: 129, 90
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+eye_5_1
+  rotate: false
+  xy: 111, 2
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+eye_5_2
+  rotate: true
+  xy: 215, 230
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+eye_6_1
+  rotate: false
+  xy: 337, 288
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+eye_6_2
+  rotate: false
+  xy: 215, 255
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 124, 356
+  size: 136, 138
+  orig: 136, 138
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: false
+  xy: 262, 372
+  size: 130, 122
+  orig: 130, 122
+  offset: 0, 0
+  index: -1
+hair_B2
+  rotate: false
+  xy: 2, 339
+  size: 120, 155
+  orig: 120, 155
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: true
+  xy: 2, 211
+  size: 126, 95
+  orig: 126, 95
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: false
+  xy: 2, 3
+  size: 43, 121
+  orig: 43, 121
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 99, 192
+  size: 32, 145
+  orig: 32, 145
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 229, 284
+  size: 70, 58
+  orig: 70, 58
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 289, 294
+  size: 46, 76
+  orig: 46, 76
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 2, 126
+  size: 95, 83
+  orig: 95, 83
+  offset: 0, 0
+  index: -1
+houbai
+  rotate: false
+  xy: 133, 184
+  size: 85, 44
+  orig: 85, 44
+  offset: 0, 0
+  index: -1
+jianzhuang_B
+  rotate: true
+  xy: 129, 148
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+jianzhuang_R
+  rotate: false
+  xy: 220, 200
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 47, 2
+  size: 25, 62
+  orig: 25, 62
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 99, 128
+  size: 28, 62
+  orig: 28, 62
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: false
+  xy: 133, 292
+  size: 94, 62
+  orig: 94, 62
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: false
+  xy: 133, 230
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+meimao_4
+  rotate: true
+  xy: 47, 29
+  size: 95, 61
+  orig: 95, 61
+  offset: 0, 0
+  index: -1
+weapon_L
+  rotate: true
+  xy: 129, 120
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+weapon_L_2
+  rotate: false
+  xy: 139, 29
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+yulei_1
+  rotate: false
+  xy: 337, 320
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

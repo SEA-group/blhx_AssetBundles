@@ -1,0 +1,22 @@
+PPtr<GameObject> m_GameObject
+	int m_FileID = 0
+	SInt64 m_PathID = 8247813194371263738
+UInt8 m_Enabled = 1
+PPtr<MonoScript> m_Script
+	int m_FileID = 0
+	SInt64 m_PathID = -2476645873461232222
+string m_Name = ""
+PPtr<$RectTransform> viewport
+	int m_FileID = 0
+	SInt64 m_PathID = -7448095413426078041
+int directionOfRecognize = 1
+int movementType = 0
+float elasticity = 0.1
+float scrollSensitivity = 0.8
+UInt8 inertia = 1
+float decelerationRate = 0.005
+Snap snap
+	UInt8 Enable = 1
+	float VelocityThreshold = 0.6
+	float Duration = 0.5
+int dataCount = 0

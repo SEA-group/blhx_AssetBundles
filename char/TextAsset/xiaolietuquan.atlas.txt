@@ -1,0 +1,286 @@
+
+xiaolietuquan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 442, 443
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1
+daimao
+  rotate: false
+  xy: 2, 14
+  size: 39, 67
+  orig: 39, 67
+  offset: 0, 0
+  index: -1
+eye_1_1
+  rotate: true
+  xy: 282, 277
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+eye_1_2
+  rotate: false
+  xy: 478, 367
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+eye_2_1
+  rotate: false
+  xy: 282, 258
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+eye_2_2
+  rotate: true
+  xy: 303, 200
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+eye_3_1
+  rotate: true
+  xy: 398, 350
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_3_2
+  rotate: true
+  xy: 438, 355
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_4_1
+  rotate: false
+  xy: 131, 102
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+eye_4_2
+  rotate: false
+  xy: 162, 102
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+eye_5_1
+  rotate: true
+  xy: 165, 74
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+eye_5_2
+  rotate: false
+  xy: 165, 47
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+eye_6_1
+  rotate: true
+  xy: 478, 399
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+eye_6_2
+  rotate: false
+  xy: 242, 211
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 229
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+gutou
+  rotate: false
+  xy: 271, 228
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: false
+  xy: 186, 389
+  size: 122, 121
+  orig: 122, 121
+  offset: 0, 0
+  index: -1
+hair_B2
+  rotate: false
+  xy: 2, 368
+  size: 182, 142
+  orig: 182, 142
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: true
+  xy: 75, 2
+  size: 98, 88
+  orig: 98, 88
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: true
+  xy: 310, 448
+  size: 62, 130
+  orig: 62, 130
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 75, 102
+  size: 54, 125
+  orig: 54, 125
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 438, 383
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 292, 326
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+jianzhuang_B
+  rotate: false
+  xy: 2, 83
+  size: 71, 144
+  orig: 71, 144
+  offset: 0, 0
+  index: -1
+jianzhuang_L
+  rotate: false
+  xy: 131, 167
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+jianzhuang_R
+  rotate: false
+  xy: 131, 126
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 330, 356
+  size: 26, 66
+  orig: 26, 66
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 138, 248
+  size: 25, 60
+  orig: 25, 60
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: false
+  xy: 310, 384
+  size: 91, 62
+  orig: 91, 62
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: false
+  xy: 200, 262
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+meimao_4
+  rotate: true
+  xy: 138, 275
+  size: 91, 60
+  orig: 91, 60
+  offset: 0, 0
+  index: -1
+meimao_6
+  rotate: false
+  xy: 200, 324
+  size: 90, 63
+  orig: 90, 63
+  offset: 0, 0
+  index: -1
+tianxian
+  rotate: true
+  xy: 138, 211
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+tie
+  rotate: false
+  xy: 298, 228
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+tie2
+  rotate: true
+  xy: 271, 205
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: false
+  xy: 200, 242
+  size: 69, 18
+  orig: 69, 18
+  offset: 0, 0
+  index: -1
+weapon_L
+  rotate: false
+  xy: 330, 327
+  size: 54, 27
+  orig: 54, 27
+  offset: 0, 0
+  index: -1
+weapon_R
+  rotate: false
+  xy: 190, 215
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+yulei_L
+  rotate: true
+  xy: 403, 378
+  size: 68, 33
+  orig: 68, 33
+  offset: 0, 0
+  index: -1
+yulei_R
+  rotate: true
+  xy: 43, 19
+  size: 62, 30
+  orig: 62, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,33 @@
+Shader "Particles/Additive (Soft)" {
+Properties {
+ _MainTex ("Particle Texture", 2D) = "white" { }
+ _InvFade ("Soft Particles Factor", Range(0.01,3)) = 1
+}
+SubShader { 
+ Tags { "QUEUE"="Transparent" "IGNOREPROJECTOR"="true" "RenderType"="Transparent" }
+ Pass {
+  Tags { "QUEUE"="Transparent" "IGNOREPROJECTOR"="true" "RenderType"="Transparent" }
+  ZWrite Off
+  Cull Off
+  Blend One OneMinusSrcColor
+  ColorMask RGB
+  GpuProgramID 4861
+Program "vp" {
+SubProgram "gles " {
+GpuProgramIndex 0
+}
+SubProgram "gles " {
+GpuProgramIndex 1
+}
+}
+Program "fp" {
+SubProgram "gles " {
+GpuProgramIndex 2
+}
+SubProgram "gles " {
+GpuProgramIndex 3
+}
+}
+ }
+}
+}

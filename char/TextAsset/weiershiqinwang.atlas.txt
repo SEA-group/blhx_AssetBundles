@@ -1,0 +1,251 @@
+
+weiershiqinwang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 437, 362
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+ear
+  rotate: true
+  xy: 389, 327
+  size: 22, 46
+  orig: 22, 46
+  offset: 0, 0
+  index: -1
+eye_1_1
+  rotate: true
+  xy: 283, 215
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: -1
+eye_1_2
+  rotate: false
+  xy: 322, 246
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+eye_2_1
+  rotate: true
+  xy: 362, 243
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+eye_2_2
+  rotate: false
+  xy: 214, 100
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+eye_3_1
+  rotate: false
+  xy: 377, 287
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_3_2
+  rotate: false
+  xy: 405, 287
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_4_1
+  rotate: true
+  xy: 322, 215
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+eye_4_2
+  rotate: true
+  xy: 481, 337
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+eye_6_1
+  rotate: false
+  xy: 291, 116
+  size: 40, 12
+  orig: 40, 12
+  offset: 0, 0
+  index: -1
+eye_6_2
+  rotate: true
+  xy: 126, 181
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 213
+  size: 136, 138
+  orig: 136, 138
+  offset: 0, 0
+  index: -1
+hair_B2
+  rotate: false
+  xy: 2, 353
+  size: 148, 157
+  orig: 148, 157
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 2, 93
+  size: 122, 118
+  orig: 122, 118
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: true
+  xy: 152, 331
+  size: 74, 150
+  orig: 74, 150
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 389, 351
+  size: 46, 79
+  orig: 46, 79
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 281, 271
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 283, 177
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+jianzhuang_1
+  rotate: true
+  xy: 243, 177
+  size: 70, 38
+  orig: 70, 38
+  offset: 0, 0
+  index: -1
+jianzhuang_2
+  rotate: false
+  xy: 136, 15
+  size: 80, 82
+  orig: 80, 82
+  offset: 0, 0
+  index: -1
+jianzhuang_3
+  rotate: false
+  xy: 291, 130
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+jianzhuang_6
+  rotate: true
+  xy: 126, 99
+  size: 78, 86
+  orig: 78, 86
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 242, 117
+  size: 47, 58
+  orig: 47, 58
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 214, 119
+  size: 26, 58
+  orig: 26, 58
+  offset: 0, 0
+  index: -1
+lingjie
+  rotate: false
+  xy: 437, 336
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+mahua
+  rotate: false
+  xy: 152, 407
+  size: 146, 103
+  orig: 146, 103
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: true
+  xy: 2, 2
+  size: 89, 65
+  orig: 89, 65
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: true
+  xy: 450, 430
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+meimao_4
+  rotate: true
+  xy: 69, 2
+  size: 89, 65
+  orig: 89, 65
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: false
+  xy: 304, 338
+  size: 83, 92
+  orig: 83, 92
+  offset: 0, 0
+  index: -1
+sward
+  rotate: false
+  xy: 140, 179
+  size: 101, 68
+  orig: 101, 68
+  offset: 0, 0
+  index: -1
+weapon_L
+  rotate: false
+  xy: 300, 432
+  size: 148, 78
+  orig: 148, 78
+  offset: 0, 0
+  index: -1
+weapon_R
+  rotate: false
+  xy: 140, 249
+  size: 139, 80
+  orig: 139, 80
+  offset: 0, 0
+  index: -1
+xidai
+  rotate: false
+  xy: 321, 282
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1

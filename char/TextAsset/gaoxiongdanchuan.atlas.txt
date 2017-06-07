@@ -1,0 +1,48 @@
+
+gaoxiongdanchuan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 270
+  size: 392, 221
+  orig: 392, 221
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 2, 2
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: false
+  xy: 396, 441
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+zx01
+  rotate: false
+  xy: 2, 193
+  size: 393, 75
+  orig: 393, 75
+  offset: 0, 0
+  index: -1
+zx02
+  rotate: false
+  xy: 2, 116
+  size: 393, 75
+  orig: 393, 75
+  offset: 0, 0
+  index: -1
+zx03
+  rotate: false
+  xy: 2, 39
+  size: 393, 75
+  orig: 393, 75
+  offset: 0, 0
+  index: -1

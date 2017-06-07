@@ -1,0 +1,244 @@
+
+kaersilue.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 232, 349
+  size: 67, 72
+  orig: 67, 72
+  offset: 0, 0
+  index: -1
+eye_1_1
+  rotate: false
+  xy: 421, 395
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+eye_2_1
+  rotate: false
+  xy: 2, 6
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+eye_2_2
+  rotate: false
+  xy: 393, 385
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+eye_3_1
+  rotate: false
+  xy: 393, 404
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_3_2
+  rotate: true
+  xy: 190, 118
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_4_1
+  rotate: false
+  xy: 464, 362
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+eye_4_2
+  rotate: true
+  xy: 230, 121
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+eye_6_1
+  rotate: true
+  xy: 469, 386
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+eye_6_2
+  rotate: false
+  xy: 432, 362
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+eye__1_2
+  rotate: false
+  xy: 398, 350
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 373
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+gangjia_L
+  rotate: false
+  xy: 126, 182
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+gangjia_R
+  rotate: false
+  xy: 126, 128
+  size: 62, 52
+  orig: 62, 52
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: false
+  xy: 2, 239
+  size: 129, 132
+  orig: 129, 132
+  offset: 0, 0
+  index: -1
+hair_B2
+  rotate: false
+  xy: 2, 124
+  size: 122, 113
+  orig: 122, 113
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 2, 25
+  size: 115, 97
+  orig: 115, 97
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: true
+  xy: 294, 444
+  size: 66, 126
+  orig: 66, 126
+  offset: 0, 0
+  index: -1
+hair_R2
+  rotate: false
+  xy: 133, 265
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 364, 280
+  size: 35, 58
+  orig: 35, 58
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 191, 178
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 138, 423
+  size: 154, 87
+  orig: 154, 87
+  offset: 0, 0
+  index: -1
+jianzhuang_L
+  rotate: true
+  xy: 195, 285
+  size: 62, 85
+  orig: 62, 85
+  offset: 0, 0
+  index: -1
+jianzhuang_L2
+  rotate: true
+  xy: 301, 340
+  size: 42, 95
+  orig: 42, 95
+  offset: 0, 0
+  index: -1
+jianzhuang_R
+  rotate: true
+  xy: 277, 221
+  size: 55, 78
+  orig: 55, 78
+  offset: 0, 0
+  index: -1
+jianzhuang_R2
+  rotate: true
+  xy: 190, 146
+  size: 30, 56
+  orig: 30, 56
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 195, 215
+  size: 30, 65
+  orig: 30, 65
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 133, 237
+  size: 26, 60
+  orig: 26, 60
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: false
+  xy: 138, 356
+  size: 92, 65
+  orig: 92, 65
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: false
+  xy: 282, 278
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+meimao_4
+  rotate: false
+  xy: 301, 384
+  size: 90, 58
+  orig: 90, 58
+  offset: 0, 0
+  index: -1
+weapon_L1
+  rotate: false
+  xy: 422, 472
+  size: 88, 38
+  orig: 88, 38
+  offset: 0, 0
+  index: -1
+weapon_L2
+  rotate: false
+  xy: 422, 432
+  size: 87, 38
+  orig: 87, 38
+  offset: 0, 0
+  index: -1
+weapon_R
+  rotate: false
+  xy: 195, 247
+  size: 80, 36
+  orig: 80, 36
+  offset: 0, 0
+  index: -1

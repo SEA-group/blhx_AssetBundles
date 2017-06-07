@@ -1,0 +1,244 @@
+
+heianjie.png
+size: 620,620
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 238, 72
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+body_zc
+  rotate: false
+  xy: 320, 254
+  size: 72, 63
+  orig: 72, 63
+  offset: 0, 0
+  index: -1
+ear_L_zc
+  rotate: false
+  xy: 508, 451
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+eye_1_1
+  rotate: true
+  xy: 329, 111
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+eye_1_2
+  rotate: true
+  xy: 472, 329
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+eye_2_1
+  rotate: true
+  xy: 292, 38
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+eye_2_2
+  rotate: false
+  xy: 508, 434
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+eye_3_1
+  rotate: false
+  xy: 360, 123
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+eye_3_2
+  rotate: false
+  xy: 360, 88
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+eye_6_1
+  rotate: true
+  xy: 360, 158
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+eye_6_2
+  rotate: false
+  xy: 533, 453
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+face_zc
+  rotate: false
+  xy: 117, 22
+  size: 119, 120
+  orig: 119, 120
+  offset: 0, 0
+  index: -1
+guapao_zc
+  rotate: true
+  xy: 238, 31
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+hair_B2_zc
+  rotate: false
+  xy: 201, 453
+  size: 168, 165
+  orig: 168, 165
+  offset: 0, 0
+  index: -1
+hair_B_zc
+  rotate: false
+  xy: 209, 200
+  size: 109, 119
+  orig: 109, 119
+  offset: 0, 0
+  index: -1
+hair_F_zc
+  rotate: false
+  xy: 371, 463
+  size: 130, 155
+  orig: 130, 155
+  offset: 0, 0
+  index: -1
+hair_L_zc
+  rotate: false
+  xy: 327, 319
+  size: 67, 132
+  orig: 67, 132
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 329, 150
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+hand_L_zc
+  rotate: false
+  xy: 472, 408
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 238, 2
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+hand_R_zc
+  rotate: false
+  xy: 472, 356
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+hat_B_zc
+  rotate: false
+  xy: 2, 446
+  size: 197, 172
+  orig: 197, 172
+  offset: 0, 0
+  index: -1
+hat_F_zc
+  rotate: false
+  xy: 202, 321
+  size: 123, 130
+  orig: 123, 130
+  offset: 0, 0
+  index: -1
+huo
+  rotate: true
+  xy: 2, 10
+  size: 188, 113
+  orig: 188, 113
+  offset: 0, 0
+  index: -1
+huo_zc
+  rotate: true
+  xy: 503, 479
+  size: 139, 109
+  orig: 139, 109
+  offset: 0, 0
+  index: -1
+leg_L_zc
+  rotate: false
+  xy: 306, 141
+  size: 21, 56
+  orig: 21, 56
+  offset: 0, 0
+  index: -1
+leg_R_zc
+  rotate: false
+  xy: 306, 84
+  size: 21, 55
+  orig: 21, 55
+  offset: 0, 0
+  index: -1
+meimao_1_zc
+  rotate: false
+  xy: 209, 146
+  size: 95, 52
+  orig: 95, 52
+  offset: 0, 0
+  index: -1
+meimao_3 _zc
+  rotate: false
+  xy: 320, 199
+  size: 72, 53
+  orig: 72, 53
+  offset: 0, 0
+  index: -1
+pifeng_zc
+  rotate: true
+  xy: 117, 144
+  size: 130, 90
+  orig: 130, 90
+  offset: 0, 0
+  index: -1
+quanzhang_zc
+  rotate: true
+  xy: 2, 200
+  size: 244, 113
+  orig: 244, 113
+  offset: 0, 0
+  index: -1
+tie
+  rotate: false
+  xy: 329, 86
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 117, 276
+  size: 168, 83
+  orig: 168, 83
+  offset: 0, 0
+  index: -1
+weapon_zc
+  rotate: true
+  xy: 396, 326
+  size: 135, 74
+  orig: 135, 74
+  offset: 0, 0
+  index: -1

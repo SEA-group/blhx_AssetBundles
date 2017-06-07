@@ -1,0 +1,48 @@
+
+zibaochuan.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ji
+  rotate: false
+  xy: 2, 100
+  size: 158, 130
+  orig: 158, 130
+  offset: 0, 0
+  index: -1
+zd01
+  rotate: false
+  xy: 2, 51
+  size: 157, 47
+  orig: 157, 47
+  offset: 0, 0
+  index: -1
+zd02
+  rotate: false
+  xy: 162, 183
+  size: 157, 47
+  orig: 157, 47
+  offset: 0, 0
+  index: -1
+zd03
+  rotate: false
+  xy: 2, 2
+  size: 157, 47
+  orig: 157, 47
+  offset: 0, 0
+  index: -1
+zhadan_1
+  rotate: false
+  xy: 162, 120
+  size: 102, 61
+  orig: 102, 61
+  offset: 0, 0
+  index: -1
+zhadan_2
+  rotate: false
+  xy: 321, 172
+  size: 98, 58
+  orig: 98, 58
+  offset: 0, 0
+  index: -1

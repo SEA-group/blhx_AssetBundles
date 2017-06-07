@@ -1,0 +1,10 @@
+PPtr<GameObject> m_GameObject
+	int m_FileID = 0
+	SInt64 m_PathID = 1251678213029060614
+UInt8 m_Enabled = 1
+PPtr<MonoScript> m_Script
+	int m_FileID = 0
+	SInt64 m_PathID = 6733027451758840139
+string m_Name = ""
+int m_HorizontalFit = 2
+int m_VerticalFit = 2
