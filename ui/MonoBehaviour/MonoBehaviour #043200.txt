@@ -1,0 +1,10 @@
+PPtr<GameObject> m_GameObject
+	int m_FileID = 0
+	SInt64 m_PathID = 3986492493841871295
+UInt8 m_Enabled = 1
+PPtr<MonoScript> m_Script
+	int m_FileID = 0
+	SInt64 m_PathID = 9056167026474378048
+string m_Name = ""
+int scrollViewItemIndex = 0
+UInt8 inRightArea = 0

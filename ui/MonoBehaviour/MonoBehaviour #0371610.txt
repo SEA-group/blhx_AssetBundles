@@ -1,0 +1,11 @@
+PPtr<GameObject> m_GameObject
+	int m_FileID = 0
+	SInt64 m_PathID = -6084727792275365447
+UInt8 m_Enabled = 1
+PPtr<MonoScript> m_Script
+	int m_FileID = 0
+	SInt64 m_PathID = 7488629143415853326
+string m_Name = ""
+PPtr<$Transform> MeterTF
+	int m_FileID = 0
+	SInt64 m_PathID = -928862252906933756

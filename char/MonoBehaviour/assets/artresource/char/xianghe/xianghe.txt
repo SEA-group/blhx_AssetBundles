@@ -1,0 +1,92 @@
+PPtr<GameObject> m_GameObject
+	int m_FileID = 0
+	SInt64 m_PathID = 0
+UInt8 m_Enabled = 1
+PPtr<MonoScript> m_Script
+	int m_FileID = 0
+	SInt64 m_PathID = 8302033850027404168
+string m_Name = "xianghe"
+vector atlasAssets
+	Array Array
+	int size = 1
+		[0]
+		PPtr<$AtlasAsset> data
+			int m_FileID = 0
+			SInt64 m_PathID = 3931427383547561715
+PPtr<$TextAsset> skeletonJSON
+	int m_FileID = 0
+	SInt64 m_PathID = -460127024752419482
+float scale = 0.01
+vector fromAnimation
+	Array Array
+	int size = 10
+		[0]
+		string data = "stand"
+		[1]
+		string data = "stand"
+		[2]
+		string data = "tuozhuai"
+		[3]
+		string data = "victory"
+		[4]
+		string data = "stand2"
+		[5]
+		string data = "tuozhuai2"
+		[6]
+		string data = "tuozhuai2"
+		[7]
+		string data = "move"
+		[8]
+		string data = "sit"
+		[9]
+		string data = "sleep"
+vector toAnimation
+	Array Array
+	int size = 10
+		[0]
+		string data = "tuozhuai"
+		[1]
+		string data = "victory"
+		[2]
+		string data = "stand"
+		[3]
+		string data = "stand"
+		[4]
+		string data = "tuozhuai2"
+		[5]
+		string data = "sit"
+		[6]
+		string data = "sleep"
+		[7]
+		string data = "dead"
+		[8]
+		string data = "tuozhuai2"
+		[9]
+		string data = "tuozhuai2"
+vector duration
+	Array Array
+	int size = 10
+		[0]
+		float data = 0
+		[1]
+		float data = 0
+		[2]
+		float data = 0
+		[3]
+		float data = 0
+		[4]
+		float data = 0
+		[5]
+		float data = 0
+		[6]
+		float data = 0
+		[7]
+		float data = 0
+		[8]
+		float data = 0
+		[9]
+		float data = 0
+float defaultMix = 0.2
+PPtr<$RuntimeAnimatorController> controller
+	int m_FileID = 0
+	SInt64 m_PathID = 0

@@ -1,0 +1,38 @@
+PPtr<GameObject> m_GameObject
+	int m_FileID = 0
+	SInt64 m_PathID = 0
+UInt8 m_Enabled = 1
+PPtr<MonoScript> m_Script
+	int m_FileID = 0
+	SInt64 m_PathID = 8302033850027404168
+string m_Name = "zibaochuan"
+vector atlasAssets
+	Array Array
+	int size = 1
+		[0]
+		PPtr<$AtlasAsset> data
+			int m_FileID = 0
+			SInt64 m_PathID = 7918249912374558232
+PPtr<$TextAsset> skeletonJSON
+	int m_FileID = 0
+	SInt64 m_PathID = -4048553459097987617
+float scale = 0.01
+vector fromAnimation
+	Array Array
+	int size = 1
+		[0]
+		string data = "move"
+vector toAnimation
+	Array Array
+	int size = 1
+		[0]
+		string data = "dead"
+vector duration
+	Array Array
+	int size = 1
+		[0]
+		float data = 0
+float defaultMix = 0.2
+PPtr<$RuntimeAnimatorController> controller
+	int m_FileID = 0
+	SInt64 m_PathID = 0
